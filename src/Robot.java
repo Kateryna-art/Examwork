@@ -3,7 +3,7 @@ import java.util.Random;
 public class Robot {
         public String robotName;
         private double health=100;
-        String alphabet = "QWEASDZXC";
+        String alphabet = "QWEASDZXCL";
         String damageKeys ="";
 
         public Robot(String robotName) {
